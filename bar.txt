@@ -1,0 +1,16 @@
+DRINKS
+------
+
+coffee
+no sugar, please
+pie
+milk
+tea
+sugar
+
+FOOD
+----
+brioche
+sandwich
+toast
+renovating-bar
